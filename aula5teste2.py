@@ -12,7 +12,7 @@ def adicionar_tarefa(lista_tarefas, descricao, status, prioridade):
         "prioridade": prioridade
     }
     lista_tarefas.append(nova_tarefa)
-    print(f"Tarefa {descricao} adcionada!")
+    print(f"Tarefa {descricao} adicionada!")
 
 def visualizar_tarefas(lista_tarefas):
     if not lista_tarefas:
