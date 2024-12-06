@@ -1,0 +1,5 @@
+Aqui é a primeira linha, primeira frase
+Aqui é a segunda linha, segunda frase
+Aqui é a terceira linha, terceira frase
+Aqui é a quarta linha, quarta frase
+Aqui é a quinta linha, quinta frase

@@ -1,0 +1,3 @@
+Nova fraseNova frase
+Essa vai ser a nova frase& C:/Users/bruno/AppData/Local/Microsoft/WindowsApps/python3.11.exe "d:/Faculdade/Segundo Periodo/3- Algoritimo/aula 9/parte 2/5/5.py"
+Essa vai ser a nova frase!
